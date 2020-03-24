@@ -21,6 +21,6 @@ Resources to learn R
 - Bioconductor workflow for single cell data analysis: https://osca.bioconductor.org/
 
 # TCR-seq data analysis:
-- TCR-seq data analysis tools are still under development in my impression. tcR has been most popular for a while and immunarch is an emerging popular tool.
+- TCR-seq data analysis tools are still under development in my impression. tcR has been popular for a while and immunarch is an emerging powerful tool for TCR-seq data analysis.
 - immunarch: https://immunarch.com/
 - tcR: https://cran.r-project.org/web/packages/tcR/vignettes/tcrvignette.html
